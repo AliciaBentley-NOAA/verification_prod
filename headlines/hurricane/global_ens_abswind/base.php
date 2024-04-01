@@ -20,19 +20,19 @@
 
 <!-- Image -->
 <div id="page-map">
-        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_global_ens.abswind_err.al.2023.season.png">
+        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_global_ens.abswind_err.al.2023.season.png">
         <span><b>Description:</b> Absolute Intensity Error is a measure of the absolute value of the difference between model forecasts and observations of maximum wind speed (knots). Absolute Intensity Error values are shown along the y-axis, with values closer to 0.0 indicating more accurate maximum wind speed forecasts. Forecast hours are shown along the x-axis. This plot shows the average Absolute Intensity Error from all storms that formed in the North Atlantic during the 2023 Hurricane Season. </span>
 <br>
 <br>
 <br>
 <br>
-        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_global_ens.abswind_err.ep.2023.season.png">
+        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_global_ens.abswind_err.ep.2023.season.png">
 	<span><b>Description:</b> Absolute Intensity Error is a measure of the absolute value of the difference between model forecasts and observations of maximum wind speed (knots). Absolute Intensity Error values are shown along the y-axis, with values closer to 0.0 indicating more accurate maximum wind speed forecasts. Forecast hours are shown along the x-axis. This plot shows the average Absolute Intensity Error from all storms that formed in the East Pacific during the 2023 Hurricane Season. </span>
 <br>
 <br>
 <br>
 <br>
-        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_global_ens.abswind_err.wp.2023.season.png">
+        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_global_ens.abswind_err.wp.2023.season.png">
 	<span><b>Description:</b> Absolute Intensity Error is a measure of the absolute value of the difference between model forecasts and observations of maximum wind speed (knots). Absolute Intensity Error values are shown along the y-axis, with values closer to 0.0 indicating more accurate maximum wind speed forecasts. Forecast hours are shown along the x-axis. This plot shows the average Absolute Intensity Error from all storms that formed in the West Pacific during the 2023 Hurricane Season. </span>
 
 <!-- /Footer -->

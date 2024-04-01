@@ -20,13 +20,13 @@
 
 <!-- Image -->
 <div id="page-map">
-        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_regional.abswind_err.al.2023.season.png">
+        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_regional.abswind_err.al.2023.season.png">
         <span><b>Description:</b>  Absolute Intensity Error is a measure of the absolute value of the difference between model forecasts and observations of maximum wind speed (knots). Absolute Intensity Error values are shown along the y-axis, with values closer to 0.0 indicating more accurate maximum wind speed forecasts. Forecast hours are shown along the x-axis. This plot shows the average Absolute Intensity Error from all storms that formed in the North Atlantic during the 2023 Hurricane Season. Note that three storms were excluded: AL01 (Unnamed Subtropical Storm), AL02 (Bret), and AL03 (Cindy). AL01 was an unnamed subtropical storm that formed in January 2023 (no hurricane models were run). AL02 and AL03 are excluded because they formed prior to implementation of HAFS-A and HAFS-B on 27 June 2023.</span>
 <br>
 <br>
 <br>
 <br>
-        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_regional.abswind_err.ep.2023.season.png">
+        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_regional.abswind_err.ep.2023.season.png">
 	<span><b>Description:</b>  Absolute Intensity Error is a measure of the absolute value of the difference between model forecasts and observations of maximum wind speed (knots). Absolute Intensity Error values are shown along the y-axis, with values closer to 0.0 indicating more accurate maximum wind speed forecasts. Forecast hours are shown along the x-axis. This plot shows the average Absolute Intensity Error from all storms that formed in the East Pacific during the 2023 Hurricane Season.</span>
 
 <!-- /Footer -->

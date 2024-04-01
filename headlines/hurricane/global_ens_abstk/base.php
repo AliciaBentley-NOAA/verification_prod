@@ -20,19 +20,19 @@
 
 <!-- Image -->
 <div id="page-map">
-        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_global_ens.abstk_err.al.2023.season.png">
+        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_global_ens.abstk_err.al.2023.season.png">
         <span><b>Description:</b> Absolute Track Error is defined as the great-circle distance between a storm’s forecast position and its observed position (i.e., NHC Best Track) at the forecast verification time. Absolute Track Error values are shown along the y-axis in nautical miles (nm), with values closer to 0.0 indicating more accurate absolute track forecasts. Forecast hours are shown along the x-axis. This plot shows the average Absolute Track Error from all storms that formed in the North Atlantic during the 2023 Hurricane Season.</span>
 <br>
 <br>
 <br>
 <br>
-        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_global_ens.abstk_err.ep.2023.season.png">
+        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_global_ens.abstk_err.ep.2023.season.png">
 	<span><b>Description:</b> Absolute Track Error is defined as the great-circle distance between a storm’s forecast position and its observed position (i.e., NHC Best Track) at the forecast verification time. Absolute Track Error values are shown along the y-axis in nautical miles (nm), with values closer to 0.0 indicating more accurate absolute track forecasts. Forecast hours are shown along the x-axis. This plot shows the average Absolute Track Error from all storms that formed in the East Pacific during the 2023 Hurricane Season.</span>
 <br>
 <br>
 <br>
 <br>
-        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_global_ens.abstk_err.wp.2023.season.png">
+        <image name="map" style="width:100%" src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_global_ens.abstk_err.wp.2023.season.png">
 	<span><b>Description:</b> Absolute Track Error is defined as the great-circle distance between a storm’s forecast position and its observed position (i.e., JTWC Best Track) at the forecast verification time. Absolute Track Error values are shown along the y-axis in nautical miles (nm), with values closer to 0.0 indicating more accurate absolute track forecasts. Forecast hours are shown along the x-axis. This plot shows the average Absolute Track Error from all storms that formed in the West Pacific during the 2023 Hurricane Season.</span>
 
 <!-- /Footer -->

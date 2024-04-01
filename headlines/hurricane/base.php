@@ -51,42 +51,42 @@
     	<div class="col-md-auto col-overlay-img">
                 <a class="img" href="global_det_abstk/" target="_top">
                   <div class="img__overlay">GFS<br>ECMWF<br>UKM<br>CMC</div>
-                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_global_det.abstk_err.al.2023.season.png"/>
+                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_global_det.abstk_err.al.2023.season.png"/>
                 </a>
                 <div class="img-label"><a class="img-model-icon-lnks" href="global_det_abstk/"  target="_top">Global Det. Model<br>Absolute Track Error</a></div>
         </div>
 	<div class="col-md-auto col-overlay-img">
                 <a class="img" href="global_ens_abstk/" target="_top">
                   <div class="img__overlay">GEFS<br>EMCE<br>UKME<br>CMCE</div>
-                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_global_ens.abstk_err.al.2023.season.png"/>
+                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_global_ens.abstk_err.al.2023.season.png"/>
                 </a>
                 <div class="img-label"><a class="img-model-icon-lnks" href="global_ens_abstk/" target="_top">Global Ensemble<br>Absolute Track Error</a></div>
         </div>
         <div class="col-md-auto col-overlay-img">
                 <a class="img" href="regional_abstk/" target="_top">
                   <div class="img__overlay">HAFS-A/B<br>HWRF/HMON<br>GFS<br>COAMPS-TC</div>
-                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_regional.abstk_err.al.2023.season.png"/>
+                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_regional.abstk_err.al.2023.season.png"/>
                 </a>
                 <div class="img-label"><a class="img-model-icon-lnks" href="regional_abstk/"  target="_top">Hurricane Model<br>Absolute Track Error</a></div>
         </div>
         <div class="col-md-auto col-overlay-img">
                 <a class="img" href="global_det_abswind/" target="_top">
                   <div class="img__overlay">GFS<br>ECMWF<br>UKM<br>CMC</div>
-                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_global_det.abswind_err.al.2023.season.png"/>
+                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_global_det.abswind_err.al.2023.season.png"/>
                 </a>
                 <div class="img-label"><a class="img-model-icon-lnks" href="global_det_abswind/"  target="_top">Global Det. Model<br>Absolute Intensity Error</a></div>
         </div>
         <div class="col-md-auto col-overlay-img">
                 <a class="img" href="global_ens_abswind/" target="_top">
                   <div class="img__overlay">GEFS<br>EMCE<br>UKME<br>CMCE</div>
-                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_global_ens.abswind_err.al.2023.season.png"/>
+                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_global_ens.abswind_err.al.2023.season.png"/>
                 </a>
                 <div class="img-label"><a class="img-model-icon-lnks" href="global_ens_abswind/" target="_top">Global Ensemble<br>Absolute Intensity Error</a></div>
         </div>
         <div class="col-md-auto col-overlay-img">
                 <a class="img" href="regional_abswind/" target="_top">
                   <div class="img__overlay">HAFS-A/B<br>HWRF/HMON<br>GFS<br>COAMPS-TC</div>
-                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/evs.hurricane_regional.abswind_err.al.2023.season.png"/>
+                  <img src="https://www.emc.ncep.noaa.gov/users/verification/headlines/hurricane/2023/evs.hurricane_regional.abswind_err.al.2023.season.png"/>
                 </a>
                 <div class="img-label"><a class="img-model-icon-lnks" href="regional_abswind/"  target="_top">Hurricane Model<br>Absolute Intensity Error</a></div>
         </div>
