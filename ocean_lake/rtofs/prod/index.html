@@ -3,17 +3,16 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>NOAA/NWS Headline Scores</title>
+<title>RTOFS Verification</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
-<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<!--<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />-->
 <link href="../../../style/default.css" rel="stylesheet" type="text/css" media="all" />
 <link href="../../../style/fonts.css" rel="stylesheet" type="text/css" media="all" />
 <!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 <style>
-        .dropdown-content {
-                top: -150%;      
-         }
+.dropdown-content {top: -100%;}
+.dropdown-content a {padding: 1.0em 0.5em;}
 </style>
 </head>
 
@@ -60,7 +59,6 @@ window.onclick = function(event) {
       }
   }
 }
-
 </script>
 
 <body>
@@ -69,33 +67,45 @@ window.onclick = function(event) {
 		<div id="logo">
 			<img src="../../../style/images/noaa.png" alt="" width="100" />
 			<img src="../../../style/images/nws.png" alt="" width="100" />
-			<h1><font color="white">NOAA/NWS<br>Headline<br>Scores</font></h1>
+			<h1><font color="white">Operational<br>RTOFS<br>Verification</font></h1>
 		</div>
 		<div id="menu">
-			<ul>
-                            <li><a href="../../para.html" accesskey="1" title="">HOME</a></li>
-
-                            <li><a href="../../global/mrw" accesskey="2" title="">GLOBAL MODELS</a></li>
-                            <li><a href="../../regional" accesskey="3" title="">REGIONAL MODELS</a></li>
-                            <li><a href="../../hurricane" accesskey="4" title="">HURRICANE MODELS</a></li>
-                            <li><a href="../../ocean_lake" accesskey="5" title="">OCEAN/LAKE MODELS</a></li>
-                            <li><a href="../../air_quality" id="active" accesskey="6" title="">AIR QUALITY MODELS</a></li>
-                            <li><a href="../../../../verification/para.php" accesskey="5" title="">&lsaquo;&lsaquo; RETURN TO<br><u>EMC VERIFICATION</u><br>HOMEPAGE</a></li>
+		        <ul>
+			    <li class="current_page_item"><a href="" accesskey="1" title="">HOME</a></li>
+			    <div class="dropdown">
+                                <button onclick="createDropdown(this)" class="dropbtn" accesskey="2">GRID-TO-GRID<br>(OCEAN) &rsaquo;&rsaquo;</button>
+                                     <div id="Dropdown_grid2grid" class="dropdown-content">
+                                         <a href="grid2grid/sst">Sea Surface Temperature</a>
+                                         <a href="grid2grid/sss">Sea Surface Salinity</a>
+                                         <a href="grid2grid/ssh">Sea Surface Height</a>
+					 <a href="grid2grid/ice_coverage">Sea Ice Concentration</a>
+				     </div>
+                            </div>
+                            <div class="dropdown">
+                                <button onclick="createDropdown(this)" class="dropbtn" accesskey="2">GRID-TO-OBS<br>(OCEAN) &rsaquo;&rsaquo;</button>
+                                     <div id="Dropdown_grid2obs" class="dropdown-content">
+                                         <a href="grid2obs/sst">Sea Surface Temperature</a>
+					 <a href="grid2obs/temperature">Temperature</br>(Vertical Profile)</a>
+					 <a href="grid2obs/salinity">Salinity</br>(Veritical Profile)</a>
+				     </div>
+                            </div>
+			    <li><a href="https://www.emc.ncep.noaa.gov/users/verification/ocean_lake/index.html" accesskey="3" title="">&lsaquo;&lsaquo; RETURN TO<br><u>OCEAN/LAKE MODELS</u><br>VERIFICATION</a></li>
                             <li></li>
-			</ul>
+                        </ul>
 		</div>
 	</div>
 	<div id="main">
 		<div id="banner">
-                    <iframe id="body_frame" src="base.php" width="1100" height="650" style="border: 1px solid black;"></iframe>
+                    <iframe id="body_frame" src="main.php" width="1100" height="1200" style="border: 1px solid black;"></iframe>
 		</div>
 		<div id="welcome">
-                        <p><font size="2">This webpage displays verification statistics from the NCEP Production Suite.<br><b>DISCLAIMER:</b> This webpage is not "operational" and is not subject to 24-h monitoring by NCEP's Central Operations staff.</p>
-                </div>
+			<p>This page displays verification for the operational RTOFS at EMC.</p>
+            <p>DISCLAIMER: This web page is not "operational" and therefore not subject to 24-hr monitoring by NCEP's Central Operations staff.</p>
+		</div>
                 <div id="contact">
-                        <p><font size="2"><b>CONTACT INFORMATION</b><br>Alicia.Bentley@noaa.gov - Webmaster<br>Ho-Chun.Huang@noaa.gov - AQM Verification<br>Jason.Levit@noaa.gov - VPPPG Branch Chief
-                </font></div>
-                <div id="footer">
+                	<p><br><b>CONTACT INFORMATION</b><br>Samira.Ardani@noaa.gov - RTOFS Verification<br>Alicia.Bentley@noaa.gov - Global Verification Project Lead<br>Jason.Levit@noaa.gov - VPPPG Branch Chief 
+		</div>
+		<div id="footer">
 			<img src="../../../style/images/noaa.png" alt="" width="100" />
 			<img src="../../../style/images/nws.png" alt="" width="100" />
 			<img src="../../../style/images/commerce.png" alt="" width="100" />
