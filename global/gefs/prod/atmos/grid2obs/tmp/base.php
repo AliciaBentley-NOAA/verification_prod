@@ -108,10 +108,6 @@ plottypes.push({
         displayName: "Vertical Profile",
         name: "vertprof",
 });
-plottypes.push({
-        displayName: "Forecast Hour Mean by Vertical Profile",
-        name: "vertprof_fhrmean",
-});
 
 
 
