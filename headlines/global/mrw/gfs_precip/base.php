@@ -15,7 +15,7 @@
 
 <!-- Head element -->
 <div class="page-top">
-	<span><a style="color:#ffffff">GFS Precipitation Scores (2002-2023)</a></span>
+        <span><a style="color:#ffffff">GFS Precipitation Scores (12Z cycles; 2002-2023)</a></span>
 </div>
 
 <!-- Image -->
