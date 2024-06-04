@@ -87,8 +87,8 @@
     <div class="col-md-auto col-overlay-img">
                 <a class="img" href="headlines/">
                   <div class="img__overlay">Headline<br/>Scores</div>
-                  <img src="https://www.emc.ncep.noaa.gov/users/verification/global/gfs/prod/atmos/grid2grid/images/evs.global_det.acc.hgt_p500.last31days.timeseries_valid00z_f120.g004_nhem.png"/>
-                </a>
+                  <img src="style/images/icon/headline.png"/>
+		</a>
                 <div class="img-label"><a class="img-model-icon-lnks" href="headlines/">Headline Scores</a></div>
         </div>
     <div class="col-md-auto col-overlay-img">
