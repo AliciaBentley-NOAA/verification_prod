@@ -231,7 +231,7 @@ fhrmean_forecasthours = ["384"]
 sfcshp_regions = ["glb"]
 sfcshp_regions_name = ["Global"]
 ndbc_standard_regions = ["glb", "seus_carb", "gom", "neus_can", "wcoast_ak", "hawaii"]
-ndbc_standard_regions_name = ["Global", "Southeast US/Caribbean", "Gulf of Mexico", "Northeast US/Canada", "West Coast US/Alaska", "Hawaii"]
+ndbc_standard_regions_name = ["Global", "Southeast US/Caribbean", "Gulf of America", "Northeast US/Canada", "West Coast US/Alaska", "Hawaii"]
 
 //====================================================================================================
 //Initialize the page
