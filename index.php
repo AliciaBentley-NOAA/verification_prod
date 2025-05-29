@@ -33,6 +33,10 @@
 
   gtag('config', 'G-1Q8X1CSGJP');
 </script>
+
+        <!--DAP script -->
+        <script src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&amp;subagency=NOAA" id="_fed_an_ua_tag"></script>
+
 </head>
 
 <body>
