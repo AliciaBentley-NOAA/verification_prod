@@ -17,6 +17,10 @@
 
   gtag('config', 'G-1Q8X1CSGJP');
 </script>
+
+	<!--DAP script -->
+        <script src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&amp;subagency=NOAA" id="_fed_an_ua_tag"></script>
+
 </head>
 
 <body>
@@ -129,7 +133,10 @@ var rightregions = [];
 var rightmodels = [];
 var rightfhrs = [];
 
-
+years.push({
+        displayName: "2025",
+        name: "2025",
+});
 years.push({
         displayName: "2024",
         name: "2024",
